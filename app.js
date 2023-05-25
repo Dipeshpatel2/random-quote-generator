@@ -9,6 +9,7 @@ const quotes = [
     "The best way to predict the future is to create it. - Peter Drucker",
     "The secret of getting ahead is getting started. - Mark Twain",
     "Don't watch the clock; do what it does. Keep going. - Sam Levenson",
+    "Arise, Awake, Stop not till the goal is reached. - Anonymous",
   ];
   
   const button = document.querySelector(".container__button");
